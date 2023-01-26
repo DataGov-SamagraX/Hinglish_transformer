@@ -7,7 +7,7 @@ An example of Hinglish sentence would be - 'Aapne achha flash card ke madyam se 
 
 The general structure is that the sentence is in Hindi (written in Roman script) but some nouns (like flash card) are in English. 
 
-We don't have a transformer that is trained on Hinglish sentences but rather Hindi <-> English transformers that we leverage  to carry out the same task. It's currently not very effective and efficient and we hope to build a transformer that is trained on Hinglish sentences to improve the performance.
+We don't have a transformer that is trained on Hinglish sentences but rather Hindi <-> English transformers that we leverage  to carry out the same task. It's currently not very effective  and we hope to build a transformer that is trained on Hinglish sentences to improve the performance.
 
 There is no current thinking on the design of the architecture required for the task and the aim in general is not to have a high BLEU score in our first attempt at creating this.  
 
