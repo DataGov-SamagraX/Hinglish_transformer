@@ -1,7 +1,7 @@
 # Hinglish_transformer
 
 ## Requirement 
-We very often get feedback on our products and on field visits in Hinglish(we work in education in Indian states). Currently we use AI4Bharats  Fairseq transformers (combining hindi <-> English translation and transliteration) to carry out Hinglish sentence conversion to English for further use for aggregation, keyword analysis and sentiment analysis. 
+We very often get feedback on our products and on field visits in Hinglish(we work in education in Indian states). Currently we use [AI4Bharats](https://ai4bharat.org/)  [Fairseq](https://github.com/facebookresearch/fairseq) transformers (combining hindi <-> English [translation](https://github.com/AI4Bharat/indicTrans) and [transliteration](https://github.com/AI4Bharat/IndicXlit)) to carry out Hinglish sentence conversion to English for further use for aggregation, keyword analysis and sentiment analysis. 
 
 An example of Hinglish sentence would be - 'Aapne achha flash card ke madyam se concept ko clear kiya hai. Aapko bachho ko aur adhik involve karna chiye' 
 
